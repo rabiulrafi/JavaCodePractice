@@ -9,7 +9,7 @@ public class Main {
                     System.out.print("*");
                 }
                 else{
-                    System.out.print("*");
+                    System.out.print(" ");
                 }
             }
             System.out.println();
