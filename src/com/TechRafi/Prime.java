@@ -2,8 +2,6 @@ package com.TechRafi;
 import java.util.Scanner;
 public class Prime {
     public static void prime(int m){
-
-
         for(int i=1;i<=m;i++) {
             int  c=2;
             for (c = 2; c <= i - 1; c++) {
