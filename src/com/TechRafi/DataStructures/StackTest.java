@@ -16,13 +16,5 @@ public class StackTest {
         System.out.println(stack);
         System.out.println(stack.peek());
 
-
-
-
-
     }
-
-
-
-
 }
