@@ -1,4 +1,4 @@
-package com.TechRafi;
+package com.TechRafi.CodePractice;
 import java.util.Scanner;
 public class Prime {
     public static void prime(int m){

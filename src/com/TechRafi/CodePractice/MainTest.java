@@ -1,4 +1,4 @@
-package com.TechRafi;
+package com.TechRafi.CodePractice;
 
 public class MainTest {
     public static void main(String[] args) {
