@@ -4,7 +4,6 @@ public class AbstractMain {
     public static void main(String[] args) {
         Wrestler kane= new Kane();
         Wrestler jhon = new JhonSina();
-
         kane.themeMusic();
         kane.finisher();
         kane.HourOfPayment(5);

@@ -1,5 +1,7 @@
 package com.TechRafi.Generics;
 
+import com.TechRafi.AbstractClass.AbstractMain;
+
 public class GenericMethodTest {
     public static<E> void PrintArray(E[] a){
         for(E i:a){
@@ -16,6 +18,5 @@ public class GenericMethodTest {
         PrintArray(doubleArr);
         System.out.println("\nCharacter Array Contains: ");
         PrintArray(charArr);
-
     }
 }
