@@ -1,9 +1,8 @@
 package com.TechRafi.InterfaceT;
-
-public class Kane implements Wrestler {
+public class Kane implements Wrestler{
     @Override
     public void themeMusic() {
-        System.out.println("Kane theme Music");
+        System.out.println("Kane theme music");
     }
     @Override
     public void finisher() {
@@ -11,6 +10,6 @@ public class Kane implements Wrestler {
     }
     @Override
     public void HourOfPayment(int hour) {
-        System.out.println("Total Payment ($600/hour) : "+ hour);
+        System.out.println("Total hour of payment (700$/hour): "+hour);
     }
 }

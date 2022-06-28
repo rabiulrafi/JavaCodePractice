@@ -4,10 +4,10 @@ public class JhonSina extends Wrestler {
 
     @Override
     public void themeMusic() {
-        System.out.println("Its jhon sina's Theme Music..Ta Ta Ta....");
+        System.out.println("Its jhon sina's Theme Music.");
     }
     @Override
     public void finisher() {
-        System.out.println("Yo Yo finisher.");
+        System.out.println("Jhon the Finisher");
     }
 }
